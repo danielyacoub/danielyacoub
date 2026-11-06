@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome, I'm Daniel John!
 
-<!--
-**danielyacoub/danielyacoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end and backend technologies to enhance my skills and contribute to exciting projects.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- **Frontend:** ReactJs, ReactRouter, TypeScript, JavaScript, HTML, CSS,
+- **Tools:** Git, GitHub, VS Code, npm, pnpm
+- **Backend:** NodeJs, ExpressJs, ASP.NET
+- **Programming Languages:** Javascript, C#
+- **Database:** MongoDb, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- NextJs Full Stuck Framework with TypeScript
+- NestJs Backend Framework with TypeScript
+- Backend basics with ASP.NET CORE
+- Embedded Systems with C++
